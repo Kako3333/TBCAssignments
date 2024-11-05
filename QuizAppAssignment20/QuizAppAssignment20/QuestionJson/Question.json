@@ -1,0 +1,303 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "question": "What was the name of Pink Floyd's first studio album?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "The Piper at the Gates of Dawn",
+      "incorrect_answers": [
+        "Ummagumma",
+        "More",
+        "Atom Heart Mother"
+      ]
+    },
+    {
+      "question": "Which artist or group did John Lennon consider son(s) of the Beatles?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Jeff Lynne's Electric Light Orchestra",
+      "incorrect_answers": [
+        "The Rolling Stones",
+        "Pink Floyd",
+        "The Who"
+      ]
+    },
+    {
+      "question": "Pink Floyd made this song for their previous lead singer Syd Barrett.",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Shine On You Crazy Diamond",
+      "incorrect_answers": [
+        "Wish You Were Here",
+        "Have A Cigar",
+        "Welcome to the Machine"
+      ]
+    },
+    {
+      "question": "What is rapper Drake's real name?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Aubrey Graham",
+      "incorrect_answers": [
+        "Shaun Carter",
+        "Dwayne Carter",
+        "Andre Young"
+      ]
+    },
+    {
+      "question": "Which song made by MAN WITH A MISSION was used as the opening for the anime Log Horizon?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Database",
+      "incorrect_answers": [
+        "Dead End in Tokyo",
+        "Raise Your Flag",
+        "Out of Control"
+      ]
+    },
+    {
+      "question": "What is the relationship between the band members of American rock band King of Leon?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Brothers & cousins",
+      "incorrect_answers": [
+        "Childhood friends",
+        "Former classmates",
+        "Fraternity house members"
+      ]
+    },
+    {
+      "question": "Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Unknown Pleasures",
+      "incorrect_answers": [
+        "The Dark Side of the Moon",
+        "London Calling",
+        "The Velvet Underground; Nico"
+      ]
+    },
+    {
+      "question": "What is Brian May's guitar called?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Red Special",
+      "incorrect_answers": [
+        "Blue Special",
+        "Green Special",
+        "Yellow Special"
+      ]
+    },
+    {
+      "question": "Which of the following music bands is not from Finland?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Sabaton",
+      "incorrect_answers": [
+        "Apocalyptica",
+        "Waltari",
+        "Lordi"
+      ]
+    },
+    {
+      "question": "Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Dr.Dre",
+      "incorrect_answers": [
+        "Dirty Bastard",
+        "GZA",
+        "Method Man"
+      ]
+    },
+    {
+      "question": "What is the name of the collective that includes Bladee and Yung Lean?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Drain Gang",
+      "incorrect_answers": [
+        "Shield Gang",
+        "Sad Boys",
+        "GBC"
+      ]
+    },
+    {
+      "question": "What was the title of Yung Lean's debut studio album?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Unknown Memory",
+      "incorrect_answers": [
+        "Warlord",
+        "Starz",
+        "Stranger"
+      ]
+    },
+    {
+      "question": "Which member of Drain Gang is known for their distinctive vocal style and artistic visuals?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Bladee",
+      "incorrect_answers": [
+        "Ecco2k",
+        "Yung Lean",
+        "Yung Sherma"
+      ]
+    },
+    {
+      "question": "What is the name of Ecco2k's debut album released in 2019?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "E",
+      "incorrect_answers": [
+        "Dewdropper",
+        "Frosted",
+        "Glamour"
+      ]
+    },
+    {
+      "question": "Which Drain Gang member collaborated with Yung Lean on the song 'Ginseng Strip 2002'?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Bladee",
+      "incorrect_answers": [
+        "Ecco2k",
+        "Yung Sherma",
+        "Kanye West"
+      ]
+    },
+    {
+      "question": "What year did the song 'Ghost Ride' by Yung Lean release?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "2013",
+      "incorrect_answers": [
+        "2015",
+        "2016",
+        "2014"
+      ]
+    },
+    {
+      "question": "Which song features the lyric 'I can feel it in my bones'?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Red Light",
+      "incorrect_answers": [
+        "Ice Cream",
+        "Just Like You",
+        "Bad Boys"
+      ]
+    },
+    {
+      "question": "Which Drain Gang member is also a fashion designer?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Ecco2k",
+      "incorrect_answers": [
+        "Yung Lean",
+        "Bladee",
+        "Yung Sherma"
+      ]
+    },
+    {
+      "question": "What is the name of the collaborative project between Yung Lean and Bladee?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Stranger",
+      "incorrect_answers": [
+        "Sorrow",
+        "Warlord",
+        "Bleach"
+      ]
+    },
+    {
+      "question": "Which song contains the lyrics 'I can’t get enough of you'?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Ice Cream",
+      "incorrect_answers": [
+        "Warlord",
+        "Crystal City",
+        "Ginseng Strip 2002"
+      ]
+    },
+    {
+      "question": "What year did Bladee release his album 'Exe'?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "2016",
+      "incorrect_answers": [
+        "2015",
+        "2018",
+        "2017"
+      ]
+    },
+    {
+      "question": "What is Yung Lean's real name?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Jonatan Leandoer Håstad",
+      "incorrect_answers": [
+        "Elias G. Karlsson",
+        "Benjamin Reichwald",
+        "Alexander M. Bergström"
+      ]
+    },
+    {
+      "question": "Which Drain Gang member often incorporates themes of anime and internet culture in their music?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Yung Lean",
+      "incorrect_answers": [
+        "Bladee",
+        "Ecco2k",
+        "Yung Sherma"
+      ]
+    },
+    {
+      "question": "What is the title of the 2019 Drain Gang mixtape?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Drain Gang 2020",
+      "incorrect_answers": [
+        "Goth Angel Sinner",
+        "Bladee and Yung Lean",
+        "E"
+      ]
+    },
+    {
+      "question": "Which music video features Yung Lean and Bladee dressed as cartoon characters?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Happy Feet",
+      "incorrect_answers": [
+        "Ghost Ride",
+        "Ice Cream",
+        "Red Light"
+      ]
+    },
+    {
+      "question": "Which song by Drain Gang features the lyrics 'We in the same place, I’m feeling space'?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Dirt",
+      "incorrect_answers": [
+        "Ginseng Strip 2002",
+        "Ice Cream",
+        "Red Light"
+      ]
+    },
+    {
+      "question": "Who produced most of Yung Lean's early music?",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "correct_answer": "Yung Sherma",
+      "incorrect_answers": [
+        "Bladee",
+        "Ecco2k",
+        "Frank Ocean"
+      ]
+    }
+  ]
+}
+
