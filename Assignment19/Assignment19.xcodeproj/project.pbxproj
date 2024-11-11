@@ -6,7 +6,16 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		256B8F7D2CE12853002EE5D2 /* Formatter in Frameworks */ = {isa = PBXBuildFile; productRef = 256B8F7C2CE12853002EE5D2 /* Formatter */; };
+		256B8F7F2CE12853002EE5D2 /* MainApp in Frameworks */ = {isa = PBXBuildFile; productRef = 256B8F7E2CE12853002EE5D2 /* MainApp */; };
+		256B8F812CE12853002EE5D2 /* Networking in Frameworks */ = {isa = PBXBuildFile; productRef = 256B8F802CE12853002EE5D2 /* Networking */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		256B8F6E2CE1254B002EE5D2 /* Networking */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Networking; sourceTree = "<group>"; };
+		256B8F6F2CE125B9002EE5D2 /* Formatter */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Formatter; sourceTree = "<group>"; };
+		256B8F702CE125D1002EE5D2 /* MainApp */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = MainApp; sourceTree = "<group>"; };
 		25BF03992CD18707001A3BA7 /* Assignment19.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Assignment19.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -36,16 +45,30 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				256B8F812CE12853002EE5D2 /* Networking in Frameworks */,
+				256B8F7D2CE12853002EE5D2 /* Formatter in Frameworks */,
+				256B8F7F2CE12853002EE5D2 /* MainApp in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		256B8F7B2CE12853002EE5D2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		25BF03902CD18707001A3BA7 = {
 			isa = PBXGroup;
 			children = (
+				256B8F702CE125D1002EE5D2 /* MainApp */,
+				256B8F6F2CE125B9002EE5D2 /* Formatter */,
+				256B8F6E2CE1254B002EE5D2 /* Networking */,
 				25BF039B2CD18707001A3BA7 /* Assignment19 */,
+				256B8F7B2CE12853002EE5D2 /* Frameworks */,
 				25BF039A2CD18707001A3BA7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -78,6 +101,9 @@
 			);
 			name = Assignment19;
 			packageProductDependencies = (
+				256B8F7C2CE12853002EE5D2 /* Formatter */,
+				256B8F7E2CE12853002EE5D2 /* MainApp */,
+				256B8F802CE12853002EE5D2 /* Networking */,
 			);
 			productName = Assignment19;
 			productReference = 25BF03992CD18707001A3BA7 /* Assignment19.app */;
@@ -107,6 +133,8 @@
 			);
 			mainGroup = 25BF03902CD18707001A3BA7;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 25BF039A2CD18707001A3BA7 /* Products */;
 			projectDirPath = "";
@@ -335,6 +363,21 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		256B8F7C2CE12853002EE5D2 /* Formatter */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = Formatter;
+		};
+		256B8F7E2CE12853002EE5D2 /* MainApp */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = MainApp;
+		};
+		256B8F802CE12853002EE5D2 /* Networking */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = Networking;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 25BF03912CD18707001A3BA7 /* Project object */;
 }
