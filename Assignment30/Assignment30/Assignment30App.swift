@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct Assignment30App: App {
+    
     var body: some Scene {
         WindowGroup {
-            MainView()
+         
+                MainView(viewModel: TimerViewModel(timers: [], timer: myTimer(duration: "", name: "", id: UUID(), remainingTime: 0, initialTime: 0)))
+
         }
     }
 }
